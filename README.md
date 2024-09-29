@@ -1,5 +1,4 @@
 # FinancialAnalysis
-Python AtoZ DataSci
 You have been supplied with two lists of data: monthly revenue and monthly expenses for the financial year in question. Your task is to calculate the following
 financial metrics:
 - profit for each month
